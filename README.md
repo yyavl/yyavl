@@ -11,11 +11,13 @@
 </div>
 
 **-** 🌱 I studied Economics and Finance at University of Toulouse (Toulouse School of Management and Toulouse School of Economics).
+
 **-** 📊 I’m passionate about debt capital markets, and macroeconomic policy.  
+
 **-** 💡 I’m currently exploring Machine Learning applications in Financial Markets.  
+
 **-** 💻 Coding Skills: Python, VBA, R, SQL, Bloomberg Terminal (BQL) 
 
-🚀 Stay tuned for open-source finance projects combining theory and code!
 <!---
 yyavl/yyavl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
