@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @yyavl
-- 💡 I’m passionate about **finance, data science**, and the transformative power of **machine learning**.  
-- 📈 Currently diving deep into **Machine Learning applied to Financial Markets and Asset Management**.  
-- 🔍 Exploring the intersection of **quantitative finance**, **algorithmic trading**, and **AI**.  
-- 🌍 Always curious to learn, share, and build impactful solutions.
+<div align="center">
+
+### Hi, I’m Yann Vilo
+
+📚🤓 Bond markets | Fixed Income | Monetary & Macro policy strategy 🤓📚
+
+[![Yann Vilo](https://img.shields.io/badge/Yann%20Vilo-LinkedIn-blue)](https://www.linkedin.com/in/yann-vilo/)
+&nbsp;&nbsp; * &nbsp;&nbsp;
+[![Resume – Yann Vilo](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=E60023)](https://github.com/yyavl/yyavl/raw/main/Resume-YannVilo.pdf)
+
+</div>
+
+**-** 🌱 I studied Economics and Finance at University of Toulouse (Toulouse School of Management and Touloouse School of Economics).
+**-** 📊 I’m passionate about debt capital markets, and macroeconomic policy.  
+**-** 💡 I’m currently exploring Machine Learning applications in Financial Markets.  
+**-** 💻 Coding Skills: Python, VBA, R, SQL, Bloomberg Terminal (BQL) 
+
+🚀 Stay tuned for open-source finance projects combining theory and code!
 <!---
 yyavl/yyavl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
