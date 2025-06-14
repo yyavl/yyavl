@@ -12,9 +12,9 @@
 
 **-** 🌱 I studied Economics and Finance at University of Toulouse (Toulouse School of Management and Toulouse School of Economics).
 
-**-** 📊 I’m passionate about debt capital markets, and macroeconomic policy.  
+**-** 📊 I’m eager to learn about fixed income , debt capital markets, and macroeconomic policy.  
 
-**-** 💡 I’m currently exploring Machine Learning applications in Financial Markets.  
+**-** 💡 I’m currently exploring Data Analysis and Machine Learning applications in Financial Markets.  
 
 **-** 💻 Coding Skills: Python, VBA, R, SQL, Bloomberg Terminal (BQL) 
 
