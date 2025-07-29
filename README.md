@@ -5,8 +5,6 @@
 📚🤓 Bond markets | Fixed Income | Monetary & Macro policy strategy 🤓📚
 
 [![Yann Vilo](https://img.shields.io/badge/Yann%20Vilo-LinkedIn-blue)](https://www.linkedin.com/in/yann-vilo/)
-&nbsp;&nbsp; * &nbsp;&nbsp;
-[![Resume – Yann Vilo](https://img.shields.io/badge/Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=E60023)](https://github.com/yyavl/yyavl/raw/main/Resume-YannVilo.pdf)
 
 </div>
 
